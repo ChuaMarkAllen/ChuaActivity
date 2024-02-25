@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    background-color:blue;
+}p{
+    font-size:15px;
+    font-family: Times Roman , times San Serif;
+}b{
+    font-size:medium;
+    font-family: Times Roman , times San Serif;
+}h1{
+    text-align:center;
+}h2{
+    text-align:center;
+}.bio{
+    text-align:center;
+    font-size:20px;
+    background-color:red;
+}.container{
+    background-color: yellow;
+}
+
